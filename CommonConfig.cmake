@@ -29,7 +29,7 @@ endif()
 #
 # C++ 11 support
 #
-set(CXX11_SUPPORT ON CACHE BOOL "Use C++ 11")
+set(CXX11_SUPPORT OFF CACHE BOOL "Use C++ 11")
 
 if(CXX11_SUPPORT)
     if(MSVC)
