@@ -8,7 +8,6 @@
 #  GLOG_FOUND
 #  GLOG_INCLUDE_DIRS
 #  GLOG_LIBRARIES
-#  GLOG_LIBRARYRARY_DIRS
 
 include(FindPackageHandleStandardArgs)
 
